@@ -1,3 +1,3 @@
 # data-science
 
-This repo contains code used in courses taken in my Masters in Data Analytics program.
+This repo contains code used in courses taken during my Masters in Data Analytics program.
